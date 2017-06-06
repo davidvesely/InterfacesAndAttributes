@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAndAttributes", "InterfacesAndAttributes\InterfacesAndAttributes.csproj", "{5F7803ED-C4BE-49B8-8837-6E79CDF732F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAndAttributes.Business", "InterfacesAndAttributes.Business\InterfacesAndAttributes.Business.csproj", "{F10D231D-0653-49B9-8CED-B77D886B8D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F7803ED-C4BE-49B8-8837-6E79CDF732F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7803ED-C4BE-49B8-8837-6E79CDF732F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7803ED-C4BE-49B8-8837-6E79CDF732F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7803ED-C4BE-49B8-8837-6E79CDF732F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10D231D-0653-49B9-8CED-B77D886B8D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10D231D-0653-49B9-8CED-B77D886B8D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10D231D-0653-49B9-8CED-B77D886B8D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10D231D-0653-49B9-8CED-B77D886B8D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\Projects\InterfacesAndAttributes\InterfacesAndAttributes.Business\bin\Debug\InterfacesAndAttributes.Business.dll.config
+D:\Projects\InterfacesAndAttributes\InterfacesAndAttributes.Business\bin\Debug\InterfacesAndAttributes.Business.dll
+D:\Projects\InterfacesAndAttributes\InterfacesAndAttributes.Business\bin\Debug\InterfacesAndAttributes.Business.pdb
+D:\Projects\InterfacesAndAttributes\InterfacesAndAttributes.Business\obj\Debug\InterfacesAndAttributes.Business.csprojResolveAssemblyReference.cache
+D:\Projects\InterfacesAndAttributes\InterfacesAndAttributes.Business\obj\Debug\InterfacesAndAttributes.Business.dll
+D:\Projects\InterfacesAndAttributes\InterfacesAndAttributes.Business\obj\Debug\InterfacesAndAttributes.Business.pdb
+D:\Projects\InterfacesAndAttributes\InterfacesAndAttributes.Business\bin\Debug\StructureMap.dll
+D:\Projects\InterfacesAndAttributes\InterfacesAndAttributes.Business\bin\Debug\StructureMap.xml
